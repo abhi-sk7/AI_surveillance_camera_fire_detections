@@ -6,6 +6,11 @@ DroidCam / Webcam / Video  ->  detection  ->  browser dashboard + beep + alert p
 * `best.pt` (YOLO) rakhoge to apne aap YOLO use hoga (zyada accurate).
 * Dashboard hamesha khulta hai, camera na mile tab bhi (wo reconnect karta rehta hai).
 
+## Demo dashboard preview
+Yeh simulated `demo.mp4` se SAFE, fire-alert aur smoke-alert dashboard states dikhata hai; yeh real camera footage nahi hai.
+
+![Fire and smoke surveillance demo dashboard](assets/dashboard-demo.png)
+
 ## Sabse tez start (Windows)
 1. Python 3.9+ install karo (install me **"Add Python to PATH"** tick karo)
 2. Folder me **`start_demo.bat`** double-click -> demo video par test (browser khud khulega)
